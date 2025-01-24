@@ -1,40 +1,33 @@
-# Codeforces Solutions
+# Soluciones a Problemas de Codeforces
 
-Este repositorio contiene las soluciones a los problemas que he resuelto en [Codeforces](https://codeforces.com/). Los problemas van desde nivel principiante hasta los más avanzados, y cada solución está acompañada de comentarios que explican el proceso paso a paso.
+Este repositorio contiene mis soluciones a diversos problemas de programación competitiva de **Codeforces**. A medida que resuelvo nuevos problemas, agregaré los archivos correspondientes en la carpeta raíz del repositorio.
 
 ## Estructura del Repositorio
 
-Cada carpeta corresponde a un problema específico de Codeforces y contiene lo siguiente:
-- `solution.cpp`: Código de la solución al problema.
-- `README.md`: Descripción del problema, su solución y detalles relevantes.
-- `input.txt` y `output.txt`: Ejemplos de entrada y salida, si es necesario.
+- **Problemas resueltos:** Cada archivo en la raíz del repositorio corresponde a una solución de un problema específico de Codeforces.
+- No hay subcarpetas, todos los problemas y sus soluciones están en la carpeta principal del repositorio.
 
-## Cómo Contribuir
+## Contribuciones
 
-1. **Forkea este repositorio**.
-2. **Crea una nueva carpeta** para el problema en el que estás trabajando.
-3. **Sube tu solución** en un archivo `.cpp` y agrega los ejemplos de entrada y salida si es necesario.
-4. **Envía un pull request** con tu solución.
+Si deseas contribuir, por favor sigue estas instrucciones:
 
-## Problemas Resueltos
+1. Realiza un fork del repositorio.
+2. Crea una nueva rama con el nombre del problema que has resuelto (por ejemplo, `problema-1234`).
+3. Añade tu solución en un archivo con el nombre del problema o con un nombre descriptivo.
+4. Haz un pull request.
 
-### 1. [Título del problema 1](https://codeforces.com/problemset/problem/xyz)
-   Descripción breve del problema.
+## Cómo usar
 
-### 2. [Título del problema 2](https://codeforces.com/problemset/problem/abc)
-   Descripción breve del problema.
+Cada archivo de solución puede ser ejecutado con los compiladores correspondientes para el lenguaje utilizado (por ejemplo, C++). Si deseas ejecutar una solución, simplemente compila y ejecuta el archivo en tu entorno local.
 
-...
+### Lenguajes usados
 
-## Requisitos
+Las soluciones están escritas en **C++**, pero puedes encontrar variabilidad dependiendo del problema resuelto.
 
-- C++17 o superior
-- Compilador que soporte las últimas características del lenguaje.
+## Contacto
 
-## Licencia
-
-Este proyecto está bajo la Licencia MIT - consulta el archivo [LICENSE](LICENSE) para más detalles.
+Si tienes alguna duda o sugerencia, no dudes en abrir un issue o enviarme un mensaje.
 
 ---
 
-Si tienes alguna pregunta o sugerencia, no dudes en abrir un issue o enviar un pull request.
+¡Gracias por visitar el repositorio y buena suerte con tus propios problemas de Codeforces!
